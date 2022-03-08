@@ -1,0 +1,1 @@
+this is shell variale experiment where i use alias
