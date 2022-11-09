@@ -21,5 +21,6 @@ server {
     location /404 {
         root /var/www/html;
         internal;
+        
     }
 }
